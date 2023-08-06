@@ -2,7 +2,7 @@
 title: "Home"
 menu: "main"
 weight: 1
-url: "/"
+pageRef = "/"
 ---
 
 Kang's fictional stories.
