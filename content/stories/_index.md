@@ -1,5 +1,5 @@
 ---
-title: "stories"
-menu: "Stories"
+title: "Stories"
+menu: "main"
 weight: 2
 ---
