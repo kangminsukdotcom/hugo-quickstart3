@@ -1,27 +1,7 @@
 baseURL = ""
 languageCode = "en-us"
-title = "Kang"
+title = "Kang's stories"
 theme = "hugo-bearcub"
 
 [params]
     description = "Speak through creations."
-
-defaultContentLanguage = 'en'
-defaultContentLanguageInSubdir = true
-[languages]
-  [languages.ko]
-    contentDir = 'content/ko'
-    disabled = false
-    languageCode = 'ko-KO'
-    languageDirection = 'ltr'
-    languageName = 'Korean'
-    title = '강민석'
-    weight = 1
-  [languages.en]
-    contentDir = 'content/en'
-    disabled = false
-    languageCode = 'en-US'
-    languageDirection = 'ltr'
-    languageName = 'English'
-    title = 'Kang'
-    weight = 2
