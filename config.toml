@@ -1,4 +1,7 @@
-baseURL = 'http://hugo-quickstart-template.netlify.com'
-languageCode = 'en-us'
-title = 'Kang'
-theme = 'hugo-bearcub'
+baseURL = "http://kang.mataroa.blog/"
+languageCode = "en-us"
+title = "Kang"
+theme = "mataroa"
+
+[params]
+    description = "Speak through creations."
