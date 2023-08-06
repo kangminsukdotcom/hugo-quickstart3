@@ -5,3 +5,23 @@ theme = "hugo-bearcub"
 
 [params]
     description = "Speak through creations."
+
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+[languages]
+  [languages.ko]
+    contentDir = 'content/ko'
+    disabled = false
+    languageCode = 'ko-KO'
+    languageDirection = 'ltr'
+    languageName = 'Korean'
+    title = '한국어'
+    weight = 1
+  [languages.en]
+    contentDir = 'content/en'
+    disabled = false
+    languageCode = 'en-US'
+    languageDirection = 'ltr'
+    languageName = 'English'
+    title = 'Project Documentation'
+    weight = 2
