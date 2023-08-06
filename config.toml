@@ -1,4 +1,4 @@
-baseURL = "http://kang.mataroa.blog/"
+baseURL = "kangminsuk.netlify.app"
 languageCode = "en-us"
 title = "Kang"
 theme = "mataroa"
