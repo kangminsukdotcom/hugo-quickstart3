@@ -1,7 +1,4 @@
 baseURL = ""
 languageCode = "en-us"
-title = "Kang's stories"
+title = "Kang"
 theme = "hugo-bearcub"
-
-[params]
-    description = "Speak through creations."
